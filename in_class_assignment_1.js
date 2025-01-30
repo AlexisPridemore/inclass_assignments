@@ -28,3 +28,12 @@ for (let i = 10; i >=10; i--) {
     console.log(i);
 }
 
+// Task 4
+
+let num = 2;
+while (num <= 10) {
+    console.log(num);
+    num += 2;
+}
+
+// Task 5
