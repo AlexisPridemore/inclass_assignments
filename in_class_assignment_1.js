@@ -37,3 +37,9 @@ while (num <= 10) {
 }
 
 // Task 5
+
+function calculatesquare (num) {
+    return num * num;
+}
+console.log (calculateSquare(4)); //
+Outputs: 16
